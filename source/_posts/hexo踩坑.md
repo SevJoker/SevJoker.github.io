@@ -2,10 +2,11 @@
 title: hexo踩坑
 date: 2019-10-13 21:51:09
 categories: 技术 
-tags: golang
+tags: blog
 toc: true
 ---
 # hexo 
+
 > 年关将至，目标还差的很远啊~~~
 > 简单整理一下这些年自己的经历画成图谱（后续完善细节）
 > 嗯，发现可以做，要做的事有好多好多，多想能活500年哇
@@ -13,7 +14,7 @@ toc: true
 > 把 hexo 的坑统一汇总下，之前搞懂了又忘了。。。。。
 
 
-##hexo 简介
+## hexo 简介
 **写blog的神器，看中了他兼容markdown语法且github托管**
 hexo基于nodejs，将markdown可以直接编译成html，同时支持直接托管到github上，所以hexo的包管理均由npm管理。
 hexo托管git需要绑定name.github.io的仓库，托管后改仓库的master即为编译后的html文件。
