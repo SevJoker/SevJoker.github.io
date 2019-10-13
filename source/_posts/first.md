@@ -14,7 +14,7 @@ toc: true
 $ hello blog!
 ```
 
-### 立个小flag
+### 立个flag
 1. 每月两篇blog (all type)
 2. good good study, day day up
 3. you need to know what are you doing ha~
@@ -29,6 +29,9 @@ $ hello blog!
 - 2019-04-20 
 - 2019-04-25
 - 2019-05-01 
+- 2019-10-08
+- 2019-10-09
+
 
 
 ### TODO
