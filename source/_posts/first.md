@@ -15,7 +15,7 @@ $ hello blog!
 ```
 
 ### 立个flag
-1. 每月两篇blog (all type)
+1. 每月至少一篇blog (all type)
 2. good good study, day day up
 3. you need to know what are you doing ha~
 
