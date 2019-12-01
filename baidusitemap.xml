@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sevjoker.github.io/2019/11/17/redis%E9%9B%86%E7%BE%A4%E8%B8%A9%E5%9D%91/</loc>
+    <lastmod>2019-12-01</lastmod>
+  </url>  <url>
     <loc>http://sevjoker.github.io/2019/10/20/%E6%B5%AE%E7%94%9F%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2019-12-01</lastmod>
   </url>  <url>
@@ -9,9 +12,6 @@
   </url>  <url>
     <loc>http://sevjoker.github.io/2019/10/13/myself/</loc>
     <lastmod>2019-12-01</lastmod>
-  </url>  <url>
-    <loc>http://sevjoker.github.io/2019/11/17/redis%E9%9B%86%E7%BE%A4%E8%B8%A9%E5%9D%91/</loc>
-    <lastmod>2019-11-20</lastmod>
   </url>  <url>
     <loc>http://sevjoker.github.io/2019/10/14/gopanic/</loc>
     <lastmod>2019-10-13</lastmod>
