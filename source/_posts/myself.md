@@ -2,7 +2,7 @@
 title: myself
 date: 2019-10-13 23:31:04
 categories: 生活 
-tags: 自省
+tags: [余生]
 toc: true
 ---
 # myself 
