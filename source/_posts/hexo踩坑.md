@@ -13,7 +13,6 @@ toc: true
 > 慢慢来吧，先把blog捡起来。。。。。
 > 把 hexo 的坑统一汇总下，之前搞懂了又忘了。。。。。
 
-
 ## hexo 简介
 **写blog的神器，看中了他兼容markdown语法且github托管**
 hexo基于nodejs，将markdown可以直接编译成html，同时支持直接托管到github上，所以hexo的包管理均由npm管理。
